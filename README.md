@@ -1,4 +1,4 @@
-## <img width="25" height="25" alt="Image" src="https://github.com/user-attachments/assets/26974821-a193-4930-8696-9775be0aad69" /> 프로젝트 개요
+## <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/26974821-a193-4930-8696-9775be0aad69" /> 프로젝트 개요
 엘리베이터를 실제로 구현하면서 다양한 모듈들을 활용하기 위해 만든 프로젝트입니다.
 
 ## 개발 개요
