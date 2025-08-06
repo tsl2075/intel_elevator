@@ -23,6 +23,8 @@
 ServoMotor을 사용할 때 Hal_GetTick을 활용하여 non-blocking 기법을 구현해서 사용
 
 
+### Youtube 링크
+https://www.youtube.com/shorts/yW5ClXnDxGI
 
 ### &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;동작영상   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 ![eleva 동작 - Clipchamp로 제작](https://github.com/user-attachments/assets/c26ee2d6-dc65-41c3-9b82-ce773c2686b6)
