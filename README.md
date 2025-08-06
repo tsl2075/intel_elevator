@@ -1,6 +1,7 @@
 ## <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/26974821-a193-4930-8696-9775be0aad69" /> 프로젝트 개요
 엘리베이터를 실제로 구현하면서 다양한 모듈들을 활용하기 위해 만든 프로젝트입니다.
 
+
 ## 개발 개요
 - 프로젝트 : Elevator
 - 개발기간 : 2025.03.21 ~ 03.27
@@ -11,11 +12,14 @@
 - 서보모터와 스텝모터의 CCR,ARR값으로 주파수를 설정하고 PWM을 활용
 - 실제로 레지스터가 부족하다고 가정을 하고 74HC595모듈인 8비트 시프트레지스터를 활용해서 최소의 핀을   활용해서 LED구현
 
+
 ## 주요 기술
 - non-blocking
 
+
 ## <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/d2cb68cc-4a4d-4a2b-8ab9-24a5550d5e3f" /> Board
 - STM32F411RE
+
 
 ## 세부설명
 스텝모터와 서보모터 그리고 포토 인터럽트를 사용해 엘리베이터를 구현하고, 초음파센서를 활용해 물체 감지 및 시각적인 표현을 위해 LCD와 LED로 구현했습니다.
