@@ -1,4 +1,4 @@
-## 프로젝트 개요
+## <img width="256" height="256" alt="Image" src="https://github.com/user-attachments/assets/26974821-a193-4930-8696-9775be0aad69" /> 프로젝트 개요
 엘리베이터를 실제로 구현하면서 다양한 모듈들을 활용하기 위해 만든 프로젝트입니다.
 
 ## 개발 개요
@@ -7,14 +7,14 @@
 - 개발 언어 : C
 
 
-## 목표
+## <img width="256" height="256" alt="Image" src="https://github.com/user-attachments/assets/b37ebdf0-b93d-4a64-8740-0d5b58d975f7" /> 목표
 - 서보모터와 스텝모터의 CCR,ARR값으로 주파수를 설정하고 PWM을 활용
 - 실제로 레지스터가 부족하다고 가정을 하고 74HC595모듈인 8비트 시프트레지스터를 활용해서 최소의 핀을   활용해서 LED구현
 
 ## 주요 기술
 - non-blocking
 
-## Board
+## <img width="256" height="256" alt="Image" src="https://github.com/user-attachments/assets/d2cb68cc-4a4d-4a2b-8ab9-24a5550d5e3f" /> Board
 - STM32F411RE
 
 ## 세부설명
